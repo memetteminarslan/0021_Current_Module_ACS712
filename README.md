@@ -1,1 +1,3 @@
 # 0021_Current_Module_ACS712
+You are seeing a large number of widely used current modules in electronic development kits. More information coming soon...
+
